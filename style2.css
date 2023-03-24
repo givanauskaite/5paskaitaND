@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    font-family: poppins;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    color: white;
+    text-align: left;
+
+}
+
+th, td {
+    border: 2px solid white;
+    padding: 15px;
+}
+
+.darkpink {
+    background: #7D1E6A;
+}
+
+.lightpink {
+    background: #975C8D;
+}
+
+.pink {
+    background: #FF8DC7;
+}

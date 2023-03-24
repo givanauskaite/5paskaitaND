@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: roboto condensed;
+}
+
+table {
+    margin: 30px auto;
+    border-collapse: collapse;
+    border: 2px solid black;
+    text-align: left;
+}
+
+th, td {
+    border: 2px solid black;
+}
+
+td {
+    padding-right: 40px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+th {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 60px;
+    padding-left: 5px;
+}
+
+.spalva1 {
+    background: orange;
+    color: white;
+}
+
+.spalva2 {
+    background: slateblue;
+    color: white;
+}
+
+.spalva3 {
+    background: green;
+    color: white;
+}
